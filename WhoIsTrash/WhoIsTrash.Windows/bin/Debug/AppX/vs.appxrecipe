@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MGRK</Machine>
+    <WindowsUser>Dylan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d7031001-2e8a-46fc-876d-4b290962aa8f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>BC6F123B556B83004830D942AEE2BE4B43422C3D4414C163877EC958E328A84C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d7031001-2e8a-46fc-876d-4b290962aa8f_1.0.0.0_neutral__2ccv9674ecry0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d7031001-2e8a-46fc-876d-4b290962aa8f_2ccv9674ecry0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d7031001-2e8a-46fc-876d-4b290962aa8f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dylan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-25T23:49:30.441</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\bin\Debug\WhoIsTrash.Windows.exe">
+      <PackagePath>WhoIsTrash.Windows.exe</PackagePath>
+      <Modified>2014-06-26T09:00:47.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-25T23:49:29.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-26T08:45:14.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\bin\Debug\WhoIsTrash.Windows.xr.xml">
+      <PackagePath>WhoIsTrash.Windows.xr.xml</PackagePath>
+      <Modified>2014-06-26T02:26:47.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\WhoIsTrash\WhoIsTrash\WhoIsTrash.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-25T23:49:29.997</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
